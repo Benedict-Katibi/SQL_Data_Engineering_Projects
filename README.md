@@ -2,7 +2,7 @@
 
 The following are a collection of SQL projects that i have worked on to practice and reinforce my skills with data engineering tools
 
-> CKick the project name below to view the tools i used to build these!
+> Click the project name below to view the tools i used to build these!
 
 ## Projects
 
@@ -11,3 +11,9 @@ The following are a collection of SQL projects that i have worked on to practice
 ![Project 1 Overview](/Images/1_1_Project1_EDA.png)
 
 SQL- driven analysis of data engineer job market trends using advanced querying techniques
+
+### [2_WH_Mart_Build/](2_DW_Mart_Build/) - Data Pipeline - Data Warehouse & Mart
+![Data Pipeline Architecture](images/1_2_Project2_Data_Pipeline.png)
+End-to-end  ETL pipeline transforming raw csv files into a star schema data warehouse and analytical data marts.
+
+**Skills**: Dimensional modeling, ETL pipeline development, data mart architecture, production practices
